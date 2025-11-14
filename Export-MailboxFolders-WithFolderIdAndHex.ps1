@@ -18,7 +18,7 @@
 # Usage:
 #   .\Export-AronMailboxFolders-WithFolderIdAndHex.ps1
 #   .\Export-AronMailboxFolders-WithFolderIdAndHex.ps1 -OutputCsv "C:\Reports\UserFolders.csv"
-#   .\Export-AronMailboxFolders-WithFolderIdAndHex.ps1 -Mailbox "someone@tdomain.com"
+#   .\Export-AronMailboxFolders-WithFolderIdAndHex.ps1 -Mailbox "user@domain.com"
 ####################################################################
 
 param(
