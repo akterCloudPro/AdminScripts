@@ -4,7 +4,7 @@ Save as: C:\Export-Inbound-MessageTrace.ps1
 #>
 
 # ----- Configuration -----
-$Mailbox  = "akter@clickforbaby.com"   # mailbox to check (recipient)
+$Mailbox  = ""   # mailbox to check (recipient)
 $DaysBack = 7                         # set 7, 3, or any number
 $Output   = "C:\Inbound_MessageTrace.csv"
 # --------------------------
